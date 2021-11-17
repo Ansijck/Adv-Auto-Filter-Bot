@@ -30,7 +30,7 @@ Just Send Any Text Will Try To Lookup In Channel And Provide You The Link</i>
     
     ABOUT_TEXT = """<b>➥ Name</b> : <code>Adv Auto Filter Bot</code>
 
-<b>➥ Creator</b> : <b><i><a herf="https://t.me/AlbertEinstein_TG">AlbertEinstein_TG</a></i></b>
+<b>➥ Creator</b> : <b><i><a herf="https://t.me/gggggddfy_net">Ansijck_Teams</a></i></b>
 
 <b>➥ Language</b> : <code>Python3</code>
 
